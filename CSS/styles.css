@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 5.625rem;
+  line-height: 4;
+  color: #393E46;
+}
+
+
+h2 {
+color: #439A97;
+font-weight: normal;
+}
+
+h3{
+  color: #62B6B7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #8EC3B0;
+  width: 5%
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  font-family: Helvetica, Sans-Serif;
+}
+
+a{
+  color: #181D31;
+  text-decoration: none;
+  padding: 15px;
+  margin-top: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #EFF5F5;
+}
+
+.middle-container {
+  background-color: #D6E4E5;
+  padding-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #497174;
+  padding: 35px;
+  
+}
+
+.programmer {
+  text-decoration: underline;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 700px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 700px;
+  top: 50px;
+}
+
+.coding-img{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.note-img{
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #497174;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #495579;
+  text-decoration: none;
+}
+
+.contact-me{
+  text-align: center;
+}
+.skills-subheadings{
+  text-align: left;
+}
+
+#copyright{
+  size: 0.75rem;
+}
+
+#programmer-title{
+  font-size: 2.5rem;
+  color: #393E46;
+}
+
